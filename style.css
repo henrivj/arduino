@@ -4,7 +4,7 @@ body {
 	overflow: hidden;
 	display: grid;
 	place-items: center;
-	background-color: black;
+	background-color: #010012;
 	font-family: sans-serif;
 }
 
